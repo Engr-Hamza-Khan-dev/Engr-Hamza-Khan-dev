@@ -1,34 +1,50 @@
 <img src="Muhammad Hamza Khan (7).png" alt="GitHub Banner" width="100%" />
 <br>👋 Hi, I’m Muhammad Hamza Khan  
 
-A **Software Engineer & Frontend Developer** who enjoys building modern and responsive websites.  
-I love working with **React.js, JavaScript, Tailwind CSS, and Bootstrap**.  
-I also have a good foundation in **C++ (OOP)** and I’m learning **Java DSA** to improve my problem-solving skills.  
+I’m a **Software Engineer & Frontend Developer** passionate about building modern, responsive web applications.  
+I also enjoy exploring **low-level programming** with **8086 assembly**, strengthening my problem-solving skills with **C++, Java, and C#**, and developing desktop and web applications.  
 
 ---
 
 ## 🚀 What I Do  
 - Build user-friendly and responsive web applications  
-- Create clean and easy-to-maintain code  
-- Explore new tools and technologies to improve my skills  
+- Develop **Windows desktop applications** using C# and Windows Forms  
+- Write clean, maintainable, and efficient code  
+- Explore **low-level programming** with **8086 assembly** and direct hardware manipulation  
+- Learn and experiment with **ASP.NET** for building dynamic web applications  
 
 ---
 
 ## ⚡ Skills  
+
 - **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript  
-- **Languages:** C++, Java  
-- **Tools:** Git, GitHub, VS Code  
+- **Backend / Desktop:** C#, Windows Forms, Basics of ASP.NET  
+- **Languages:** C++, Java, Assembly (8086)  
+- **Tools:** Git, GitHub, VS Code, Emu8086, DOSBox, Visual Studio  
+- **Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Low-level memory & hardware interaction  
 
 ---
 
 ## 📂 Projects  
-🔗 [**Portfolio Website**](https://portfolio-react-js-livid.vercel.app/) <br>
-🔗 [**Portfolio Code**](https://github.com/Mr-hamzuu/Portfolio-React-Js) <br>
-🔗 [**Hamza Restaurant Web**](https://restaurant-rust-mu.vercel.app/) <br>
-A personal portfolio to showcase my skills and projects.  
+
+🔗 [**Portfolio Website**](https://portfolio-react-js-livid.vercel.app/)  
+🔗 [**Portfolio Code**](https://github.com/Mr-hamzuu/Portfolio-React-Js)  
+🔗 [**Hamza Restaurant Web**](https://restaurant-rust-mu.vercel.app/)  
+
+A personal portfolio to showcase my skills and projects:  
 ✔ Responsive design  
 ✔ Smooth animations  
 ✔ Contact form & resume download option  
+
+🔹 **8086 Assembly Experiments** (Emu8086 / DOSBox)  
+- Direct screen output using VGA memory (`B800h`)  
+- Keyboard input using BIOS interrupts (`int 16h`)  
+- Low-level programming practice to strengthen understanding of **hardware and memory**  
+
+🔹 **C# & Windows Forms Projects**  
+- Desktop applications with interactive UI  
+- Basic data processing and CRUD functionality  
+- Learning ASP.NET basics for dynamic web development  
 
 ---
 
@@ -38,7 +54,9 @@ A personal portfolio to showcase my skills and projects.
 - 📧 Email: *hamzuu6971@gmail.com*  
 
 ---
-✨ *Always learning, always growing.*  
+
+✨ *Always learning, always growing from high-level web apps to low-level hardware programming and desktop applications.*  
+ 
 
 
 ## 🌐 Socials:
