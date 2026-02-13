@@ -50,9 +50,9 @@ A personal portfolio to showcase my skills and projects:
 ---
 
 ## 📫 Connect With Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hamzuu6971/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/engrhamzakhandev/)  
 - 💻 [GitHub](https://github.com/Mr-hamzuu)  
-- 📧 Email: *hamzuu6971@gmail.com*  
+- 📧 Email: *engr.hamza.khan.dev@gmail.com*  
 
 ---
 
