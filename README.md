@@ -2,7 +2,7 @@
 <img src="Muhammad Hamza Khan (7).png" alt="GitHub Banner" width="100%" />
 <br>👋 Hi, I’m Muhammad Hamza Khan  
 
-I’m a **Software Engineer & Frontend Developer** passionate about building modern, responsive web applications.  
+I’m a **Software Engineer & MERN Stack Developer** passionate about building modern, responsive web applications.  
 I also enjoy exploring **low-level programming** with **8086 assembly**, strengthening my problem-solving skills with **C++, Java, and C#**, and developing desktop and web applications.  
 
 ---
@@ -28,7 +28,7 @@ I also enjoy exploring **low-level programming** with **8086 assembly**, strengt
 
 ## 📂 Projects  
 
-🔗 [**Portfolio Website**](https://portfolio-react-js-livid.vercel.app/)  
+🔗 [**Portfolio Website**](https://portfolio-iota-plum-79.vercel.app/)  
 🔗 [**Portfolio Code**](https://github.com/Mr-hamzuu/Portfolio-React-Js)  
 🔗 [**Hamza Restaurant Web**](https://restaurant-rust-mu.vercel.app/)  
 
