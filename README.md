@@ -29,7 +29,6 @@ I also enjoy exploring **low-level programming** with **8086 assembly**, strengt
 ## 📂 Projects  
 
 🔗 [**Portfolio Website**](https://portfolio-iota-plum-79.vercel.app/)  
-🔗 [**Portfolio Code**](https://github.com/Mr-hamzuu/Portfolio-React-Js)  
 🔗 [**Hamza Restaurant Web**](https://restaurant-rust-mu.vercel.app/)  
 
 A personal portfolio to showcase my skills and projects:  
