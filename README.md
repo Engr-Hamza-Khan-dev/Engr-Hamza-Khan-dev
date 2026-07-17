@@ -1,62 +1,154 @@
-
 <img src="Muhammad Hamza Khan (7).png" alt="GitHub Banner" width="100%" />
-<br>👋 Hi, I’m Muhammad Hamza Khan  
 
-I’m a **Software Engineer & MERN Stack Developer** passionate about building modern, responsive web applications.  
-I also enjoy exploring **low-level programming** with **8086 assembly**, strengthening my problem-solving skills with **C++, Java, and C#**, and developing desktop and web applications.  
+# Hi there 👋 I'm Muhammad Hamza Khan
 
----
+### 💻 Software Engineer | Backend Developer | Full Stack Developer
 
-## 🚀 What I Do  
-- Build user-friendly and responsive web applications  
-- Develop **Windows desktop applications** using C# and Windows Forms  
-- Write clean, maintainable, and efficient code  
-- Explore **low-level programming** with **8086 assembly** and direct hardware manipulation  
-- Learn and experiment with **ASP.NET** for building dynamic web applications  
+I'm a Software Engineer passionate about building **scalable backend systems**, **modern web applications**, and **AI-powered applications**.
+
+Currently, I'm focused on mastering **Backend Engineering**, **System Design**, **Scalability**, and **Cloud Technologies** while building real-world applications using **Node.js**, **Express.js**, **PostgreSQL**, and **Prisma ORM**.
 
 ---
 
-## ⚡ Skills  
+## 🚀 About Me
 
-- **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript  
-- **Backend / Desktop:** C#, Windows Forms, Basics of ASP.NET  
-- **Languages:** C++, Java, Assembly (8086)  
-- **Tools:** Git, GitHub, VS Code, Emu8086, DOSBox, Visual Studio  
-- **Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Low-level memory & hardware interaction  
-
----
-
-## 📂 Projects  
-
-🔗 [**Portfolio Website**](https://portfolio-iota-plum-79.vercel.app/)  
-🔗 [**Hamza Restaurant Web**](https://restaurant-rust-mu.vercel.app/)  
-
-A personal portfolio to showcase my skills and projects:  
-✔ Responsive design  
-✔ Smooth animations  
-✔ Contact form & resume download option  
-
-🔹 **8086 Assembly Experiments** (Emu8086 / DOSBox)  
-- Direct screen output using VGA memory (`B800h`)  
-- Keyboard input using BIOS interrupts (`int 16h`)  
-- Low-level programming practice to strengthen understanding of **hardware and memory**  
-
-🔹 **C# & Windows Forms Projects**  
-- Desktop applications with interactive UI  
-- Basic data processing and CRUD functionality  
-- Learning ASP.NET basics for dynamic web development  
+- 💼 Software Engineering Intern
+- 🌱 Currently learning **Backend Engineering**, **System Design**, and **Scalable Architectures**
+- ⚙️ Building REST APIs with **Node.js** & **Express.js**
+- 🗄️ Working with **PostgreSQL**, **Prisma ORM**, and **Neon**
+- 🤖 Exploring **AI**, **Embeddings**, **RAG**, and **LLM-powered applications**
+- 🚀 Passionate about solving real-world problems through software
+- 🎯 Open to **Junior Backend**, **Full Stack**, and **Software Engineer** opportunities
 
 ---
 
-## 📫 Connect With Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/engrhamzakhandev/)  
-- 💻 [GitHub](https://github.com/Mr-hamzuu)  
-- 📧 Email: *engr.hamza.khan.dev@gmail.com*  
+## 🌐 Portfolio & Featured Projects
+
+### 🚀 Live Projects
+
+🔗 **Portfolio Website**  
+[Portfolio](https://portfolio-iota-plum-79.vercel.app/)
+
+🔗 **HireMate** *(In Development)*  
+[Hiremate](https://hire-mate-ten.vercel.app/)
+
+🔗 **Restaurant Website**  
+[Restaurant web](https://restaurant-rust-mu.vercel.app/)
 
 ---
 
-✨ *Always learning, always growing from high-level web apps to low-level hardware programming and desktop applications.*  
- 
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
+
+---
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+---
+
+### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge)
+
+---
+
+### 🤖 AI
+
+- OpenAI APIs
+- Vector Embeddings
+- RAG (Retrieval-Augmented Generation)
+- Prompt Engineering
+
+---
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 HireMate
+
+An AI-powered job application platform designed to simplify and automate the job search process.
+
+### Features
+
+- 🔐 JWT Authentication
+- 📧 Email OTP Verification
+- 📄 Resume Management
+- 🤖 AI Resume Matching
+- 💼 Personalized Job Recommendations
+- ⚡ RESTful Backend APIs
+- 🗄️ PostgreSQL + Prisma ORM
+
+---
+
+## 📊 KPI Dashboard
+
+A production-ready dashboard built using **React.js**, **Next.js**, and modern frontend architecture.
+
+### Highlights
+
+- 📈 Interactive Charts
+- 📱 Responsive UI
+- 🔄 API Integration
+- 📊 Analytics Dashboard
+- 🧩 Reusable Components
+
+---
+
+# 📚 Currently Learning
+
+- 🏗️ System Design
+- ⚡ Scalability
+- 🐳 Docker
+- 🔴 Redis
+- 📨 Message Queues
+- 🧱 Clean Architecture
+- ☁️ Cloud Deployment
+- 🤖 AI Engineering
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/engrhamzakhandev)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://portfolio-iota-plum-79.vercel.app)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mr-hamzuu)
+
+📧 **Email:** engr.hamza.khan.dev@gmail.com
+
+---
 
 
 ## 🌐 Socials:
