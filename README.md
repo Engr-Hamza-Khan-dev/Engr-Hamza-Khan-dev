@@ -1,4 +1,4 @@
-<img src="Muhammad Hamza Khan (7).png" alt="Muhammad Hamza Khan Banner" width="100%" />
+<img src="Muhammad Hamza Khan (12).png" alt="Muhammad Hamza Khan Banner" width="100%" />
 
 <h1 align="center">Muhammad Hamza Khan</h1>
 <h3 align="center">Software Engineer • Backend Developer • Full Stack Developer</h3>
