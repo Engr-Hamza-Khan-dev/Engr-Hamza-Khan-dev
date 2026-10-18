@@ -128,11 +128,18 @@ My personal portfolio, showcasing projects, skills, and professional experience.
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-hamzuu&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Mr-hamzuu&theme=github_dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-hamzuu&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 30px 10px;">
+    <tr>
+     <td align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Engr-Hamza-Khan-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engr-Hamza-Khan-dev" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></p>
 
